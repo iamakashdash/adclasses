@@ -37,3 +37,21 @@ h1 {
 .btn:hover {
     background-color: #0056b3;
 }
+
+.slider {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.slider-image {
+    width: 100%;
+    height: auto;
+    display: none;
+}
+
+.slider-image.active {
+    display: block;
+}
