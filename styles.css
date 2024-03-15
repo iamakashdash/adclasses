@@ -6,6 +6,11 @@ body {
     color: white;
 }
 
+h1 {
+    color: yellow;
+}
+
+
 .container {
     max-width: 800px;
     margin: 0 auto;
